@@ -1,0 +1,6 @@
+UIPages/RegisterPage.java
+ UIPages.RegisterPage
+TestWeb/RegisterPageTest.java
+ TestWeb.RegisterPageTest
+Steps/RegisterPagesSteps.java
+ Steps.RegisterPagesSteps

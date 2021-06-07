@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="TestWeb.RegisterPageTest" skipped="0" tests="1" time="3.13" timestamp="2021-06-06 09:31:13"><testcase classname="TestWeb.RegisterPageTest" name="App register test"><error message="Could not instantiate class org.openqa.selenium.chrome.ChromeDriver" type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate class org.openqa.selenium.chrome.ChromeDriver</error><system-err>Could not instantiate class org.openqa.selenium.chrome.ChromeDriver&#13;
+Steps.RegisterPagesSteps.isOnRegisterPage(RegisterPagesSteps.java:13)&#13;
+TestWeb.RegisterPageTest.appRegisterTest(RegisterPageTest.java:22)&#13;
+</system-err></testcase></testsuite>
